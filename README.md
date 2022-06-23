@@ -6,5 +6,5 @@ I have only touched on SQL briefly, so I want to go through and take some notes 
 
 ## Table of Contents
 
-1. [Intro](SQL_Notes\SQL_Intro.md)
-2. [Syntax](SQL_Notes\SQL_Syntax.md)
+1. [Intro]([SQL_Notes\SQL_Intro.md](https://github.com/mcarter96/IntroToSQL/blob/main/SQL_Notes/SQL_Intro.md))
+2. [Syntax]([SQL_Notes\SQL_Syntax.md](https://github.com/mcarter96/IntroToSQL/blob/main/SQL_Notes/SQL_Syntax.md))
